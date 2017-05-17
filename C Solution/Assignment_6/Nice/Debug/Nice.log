@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\source.c(5): warning C4273: 'messageOfTheDay': inconsistent dll linkage
+  c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\nice.h(8): note: see previous definition of 'messageOfTheDay'
+c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\source.c(11): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\source.c(11): warning C4013: 'time' undefined; assuming extern returning int
+c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\source.c(12): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\source.c(16): warning C4273: 'letterGrade': inconsistent dll linkage
+  c:\users\brandon\desktop\alvino_brandon_assignment_6_csci360\c solution\assignment_6\nice\nice.h(9): note: see previous definition of 'letterGrade'
+  Nice.vcxproj -> C:\Users\Brandon\Desktop\Alvino_Brandon_Assignment_6_CSCI360\C Solution\Assignment_6\Debug\Nice.dll
