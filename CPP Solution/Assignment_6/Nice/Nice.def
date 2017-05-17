@@ -1,0 +1,4 @@
+LIBRARY Nice
+EXPORTS
+	messageOfTheDay
+	letterGrade

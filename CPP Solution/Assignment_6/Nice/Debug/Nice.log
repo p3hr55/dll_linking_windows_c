@@ -1,0 +1,8 @@
+﻿  Nice.cpp
+c:\users\brandon\desktop\assignment_6\nice\nice.cpp(9): warning C4273: 'M::messageOfTheDay': inconsistent dll linkage
+  c:\users\brandon\desktop\assignment_6\nice\nice.h(13): note: see previous definition of 'messageOfTheDay'
+c:\users\brandon\desktop\assignment_6\nice\nice.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\brandon\desktop\assignment_6\nice\nice.cpp(21): warning C4273: 'M::letterGrade': inconsistent dll linkage
+  c:\users\brandon\desktop\assignment_6\nice\nice.h(14): note: see previous definition of 'letterGrade'
+     Creating library C:\Users\Brandon\Desktop\Assignment_6\Debug\Nice.lib and object C:\Users\Brandon\Desktop\Assignment_6\Debug\Nice.exp
+  Nice.vcxproj -> C:\Users\Brandon\Desktop\Assignment_6\Debug\Nice.dll

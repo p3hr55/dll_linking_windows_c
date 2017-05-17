@@ -1,0 +1,8 @@
+﻿  Mean.cpp
+c:\users\brandon\desktop\assignment_6\mean\mean.cpp(9): warning C4273: 'W::messageOfTheDay': inconsistent dll linkage
+  c:\users\brandon\desktop\assignment_6\mean\mean.h(13): note: see previous definition of 'messageOfTheDay'
+c:\users\brandon\desktop\assignment_6\mean\mean.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\brandon\desktop\assignment_6\mean\mean.cpp(19): warning C4273: 'W::letterGrade': inconsistent dll linkage
+  c:\users\brandon\desktop\assignment_6\mean\mean.h(14): note: see previous definition of 'letterGrade'
+     Creating library C:\Users\Brandon\Desktop\Assignment_6\Debug\Mean.lib and object C:\Users\Brandon\Desktop\Assignment_6\Debug\Mean.exp
+  Mean.vcxproj -> C:\Users\Brandon\Desktop\Assignment_6\Debug\Mean.dll

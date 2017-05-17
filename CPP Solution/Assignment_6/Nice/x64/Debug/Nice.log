@@ -1,0 +1,4 @@
+﻿  Nice.cpp
+c:\users\brandon\desktop\incpp2\nice\nice.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Brandon\Desktop\inCPP2\x64\Debug\Nice.lib and object C:\Users\Brandon\Desktop\inCPP2\x64\Debug\Nice.exp
+  Nice.vcxproj -> C:\Users\Brandon\Desktop\inCPP2\x64\Debug\Nice.dll
